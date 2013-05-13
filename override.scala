@@ -1,10 +1,10 @@
 class Human {
-  def say = {
+  final def say = {
   }
 }
 
 class Yaakaito extends Human {
-  /*override*/ def say = {
+  override def say = {
 
   }
 }
